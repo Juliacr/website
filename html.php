@@ -34,6 +34,7 @@
     <li>toiletpapir</li>
     <li>yoghurt</li>
     <li>kiks</li>
+    <li>tomat</li>
 </ul>
 <!-- Her skal sidens indhold ligge -->
 
