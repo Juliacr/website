@@ -27,7 +27,14 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
+<p>nu er der sket ændringer</p>
 
+<ul>
+    <li>mælk</li>
+    <li>toiletpapir</li>
+    <li>yoghurt</li>
+    <li>kiks</li>
+</ul>
 <!-- Her skal sidens indhold ligge -->
 
 </body>
